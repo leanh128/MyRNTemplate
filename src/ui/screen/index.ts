@@ -1,1 +1,1 @@
-// Barrel file for screen
+export {default} from './HomeScreen';
